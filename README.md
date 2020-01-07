@@ -1,5 +1,5 @@
 # stat_edu1
-Contains basic working material for a basic course in statistics using the Software Graphpad Prism.
+Contains working material for a basic course in statistics using the software GraphPad Prism.
 
 The repository contains 3 files:
 * a PDF with a selection of statiscal tests in form of a decision tree
